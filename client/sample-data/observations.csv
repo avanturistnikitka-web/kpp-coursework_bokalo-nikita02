@@ -1,0 +1,4 @@
+﻿incidentId,metricName,value,threshold,durationScore,scaleScore
+1,Oil products (mg/dm3),1.8,0.05,65.0,70.0
+1,Suspended solids (mg/dm3),42.0,20.0,55.0,60.0
+2,Sulfur dioxide (mg/m3),0.9,0.5,45.0,50.0
